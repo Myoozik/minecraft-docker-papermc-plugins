@@ -1,0 +1,6 @@
+https://media.forgecdn.net/files/3559/523/worldedit-bukkit-7.2.8.jar
+https://github.com/Myoozik/minecraft-docker-papermc-plugins/raw/main/plugins/CoreProtect-20.4.jar
+https://github.com/Myoozik/minecraft-docker-papermc-plugins/raw/main/plugins/ImageOnMap-4.2.2.jar
+https://github.com/Myoozik/minecraft-docker-papermc-plugins/raw/main/plugins/SilkSpawners.jar
+https://github.com/Myoozik/minecraft-docker-papermc-plugins/raw/main/plugins/orebfuscator-plugin-5.2.4.jar
+https://media.forgecdn.net/files/3559
